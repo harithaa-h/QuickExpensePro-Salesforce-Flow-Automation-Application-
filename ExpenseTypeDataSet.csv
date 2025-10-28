@@ -1,0 +1,34 @@
+Name,Code__c,Description__c
+Travel – Flight,TRV_FLT,Air travel expenses
+Travel – Taxi,TRV_TXI,Local or outstation taxi expenses
+Travel – Fuel,TRV_FUE,Fuel reimbursement for personal vehicle
+Accommodation,ACC_HOT,Hotel or lodging during official travel
+Meals – Business Trip,MEAL_TRP,Meals during business travel
+Meals – Client Meeting,MEAL_CLT,Food and beverages during client meetings
+Office Supplies,OFF_SUP,"Stationery, small office items, and consumables"
+Software Subscription,OFF_SW,Work-related software or online tools
+Training & Certification,TRN_CER,Professional courses and certification fees
+Client Entertainment,CLT_ENT,Expenses for client hospitality or events
+Communication – Mobile,COM_MOB,Business-related phone bills or recharge
+Communication – Internet,COM_NET,Home/work broadband reimbursement
+Courier / Postage,OFF_COU,Mailing or courier expenses for office
+Parking / Toll,TRV_PAR,Parking fees or highway tolls
+Miscellaneous,MISC,Any other business-related expense not covered
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
